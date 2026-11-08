@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production build
+dist/
+build/
+
+# Local archives and backups
+_archive/
+*.zip
+*.tar.gz
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.secret
+*.pem
+*.key
+
+# System & editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/

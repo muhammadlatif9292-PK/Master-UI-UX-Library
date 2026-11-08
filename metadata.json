@@ -1,0 +1,7 @@
+{
+  "name": "Master UI/UX Style Library",
+  "description": "A comprehensive UI/UX architecture featuring Asset Provenance & License Registry (SPDX 2.3 & CycloneDX SBOMs), Performance Tiers 1-3 Governor, 7-Device Responsive Simulator, 12-Vector Accessibility Validation Layer, WCAG 2.2 auditor, and Visual Experience Composer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
